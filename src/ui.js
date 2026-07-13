@@ -49,7 +49,7 @@ export function renderTasks(element, tasks) {
     `;
     return;
   }
-
+  
   element.innerHTML = tasks
     .map(
       ({ week, title, topic, status, tags = [] }) => `
