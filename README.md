@@ -4,8 +4,8 @@
 
 ## Student Information
 
-- Student ID: `<student-id>`
-- Name: `<name according to course policy>`
+- Student ID: `<68543210046-7>`
+- Name: `<Suwimon Chaidath>`
 - Operating system: `<macOS / Windows + WSL>`
 - GitHub Pages URL: `<add after deployment>`
 
